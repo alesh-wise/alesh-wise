@@ -1,4 +1,5 @@
-## Hi there 👋
+## <h1 align="center"> Alexandre Guerreiro </h1>
+<p align="center"> Bsc Student in Computer Science at @Ualg </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
