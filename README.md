@@ -32,8 +32,8 @@ My solutions to graph algorithm challenges for competitive programming and MIUP 
 `C++` `Graphs`
 
 ### 📚 [BookSwipe](https://github.com/kakurokan/BookSwipe) *(in progress)*
-Book discovery app where you swipe through books to build your reading list. The design is done (user stories, wireframes, ER model, OpenAPI spec) and development is starting.
-`Java` `PostgreSQL` `Docker`
+Book discovery app where you swipe through books to build your reading list. I set up the frontend: the Vite project with Prettier, ESLint and CI, TypeScript types generated from the OpenAPI contract, API mocking with MSW and the MVP page routes. I also wrote the wireframes.
+`React` `TypeScript` `Vite` `React Router` `MSW` `OpenAPI` `Zod`
 
 ### 🧮 [dynvec](https://github.com/alesh-wise/Dynvec-)
 Generic dynamic array in C with automatic resizing, higher-order functions and five sorting algorithms implemented from scratch.
